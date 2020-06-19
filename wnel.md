@@ -1222,11 +1222,11 @@
 
 **访问以下网站，了解真实的信息。**
 
-明慧网（http://www.minghui.org）
+明慧网（http://www.minghui.org)
 
-新唐人（https://www.ntdtv.com）
+新唐人（https://www.ntdtv.com)
 
-大纪元（https://www.epochtimes.com）
+大纪元（https://www.epochtimes.com)
 
 **了解和学炼法轮功，请访问法轮大法网站。**
 
