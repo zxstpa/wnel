@@ -1,5 +1,5 @@
-# [**珍惜生命  远离邪教**](http://)
-# [**认识你身边的邪教**](http://)
+# 珍惜生命  远离邪教
+## 认识你身边的邪教
 ## [**共产党是邪教——共产邪教**](http://)
 
 **共产党虽然不宣称自己是宗教，但它具有一个宗教的所有特征。**
@@ -145,9 +145,7 @@
 
 上网三退：
 
-        科学上网访问：
-
-[http://tuidang.epochtimes.com](http://tuidang.epochtimes.com)
+        科学上网访问：[http://tuidang.epochtimes.com](http://tuidang.epochtimes.com)
 
 
 
