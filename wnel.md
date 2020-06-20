@@ -869,7 +869,7 @@
 
 这一事件在海南网络广播电视台《新闻故事会》也有报道。
 
-视频：[https://v.qq.com/x/page/z0138ejv4pv.html](https://v.qq.com/x/page/t05071v00dq.html)
+视频：[https://v.qq.com/x/page/z0138ejv4pv.html](https://v.qq.com/x/page/z0138ejv4pv.html)
 
 央视天气预报主持人宋英杰儿子的事件。
 
