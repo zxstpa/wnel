@@ -145,7 +145,7 @@
 
 上网三退：
 
-        科学上网访问：[http://tuidang.epochtimes.com](http://tuidang.epochtimes.com)
+        科学上网访问：http://tuidang.epochtimes.com
 
 
 
