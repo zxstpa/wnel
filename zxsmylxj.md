@@ -143,11 +143,8 @@
 
         tuidang@epochtimes.com
 
-上网三退：
-
-        科学上网访问：
-
-http://tuidang.epochtimes.com
+上网三退：        
+科学上网访问：http://tuidang.epochtimes.com
 
 -----
 本电子书有配套视频，主要是提供书中涉及的证据，须科学上网观看。
