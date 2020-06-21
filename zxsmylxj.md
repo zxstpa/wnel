@@ -141,7 +141,7 @@
 
 三退电子邮箱: （用海外邮箱发送）
 
-        tuidang@epochtimes.com
+tuidang@epochtimes.com
 
 上网三退：        
 科学上网访问：http://tuidang.epochtimes.com
