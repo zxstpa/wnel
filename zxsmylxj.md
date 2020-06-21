@@ -147,7 +147,7 @@
 
         科学上网访问：
         
-        http://tuidang.epochtimes.com
+        [http://tuidang.epochtimes.com](http://tuidang.epochtimes.com)
 
 
 
