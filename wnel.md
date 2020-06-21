@@ -1198,19 +1198,19 @@
 
 **电脑版：**
 
-  自由门：https://git.io/fgp
+  自由门：[https://git.io/fgp](https://git.io/fgp)
 
-  无界浏览：https://git.io/umexe
+  无界浏览：[https://git.io/umexe](https://git.io/umexe)
 
         
 
 **安卓手机版：**
 
-  自由门安卓版：https://git.io/fgma
+  自由门安卓版：[https://git.io/fgma](https://git.io/fgma)
 
-  无界一点通：https://s3.amazonaws.com/693/um.apk
+  无界一点通：[https://s3.amazonaws.com/693/um.apk](https://s3.amazonaws.com/693/um.apk)
 
-  无界手机测试版：http://wujieliulan.com/download/u113.apk
+  无界手机测试版：[http://wujieliulan.com/download/u113.apk](http://wujieliulan.com/download/u113.apk)
 
 
 
@@ -1230,7 +1230,7 @@
 
 **了解和学炼法轮功，请访问法轮大法网站。**
 
-   https://www.falundafa.org
+   [https://www.falundafa.org](https://www.falundafa.org)
 
 
 
@@ -1462,7 +1462,7 @@ tuidang@epochtimes.com
 根据这次创举，创作了歌曲《为你而来》。
 
 2019年7月20日，再现了法轮功真相的长达3小时的史诗电影《为你而来》上映。
-
+```
 今天，大法弟子再次为你而来……
 
 跨越千山万水
@@ -1500,7 +1500,7 @@ tuidang@epochtimes.com
 切莫错过这万古机缘
 
 
-
+```
 
 
 ### [**法轮大法好**](http://)
