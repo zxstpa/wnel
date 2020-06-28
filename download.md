@@ -6,7 +6,7 @@
 
 # 翻墙（科学上网）软件下载
 ## [**爱博电视（电脑版）**](https://github.com/zxstpa/wnel/files/4812881/Green_iPPOTV.zip)
-## [**自由门（电脑版）**](https://github.com/zxstpa/wnel/files/4812789/fg776p.zip)
+## [**自由门（电脑版）**](https://github.com/zxstpa/wnel/files/4841991/fg786p.zip)
 ## [**自由门（安卓手机版）**](https://github.com/zxstpa/wnel/files/4812824/fgma42.zip)
 ## [**无界浏览（电脑版）**](https://github.com/zxstpa/wnel/files/4812782/u.zip)
 ## [**无界一点通（安卓手机版）**](https://github.com/zxstpa/wnel/files/4812890/um.zip)
