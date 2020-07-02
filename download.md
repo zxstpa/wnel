@@ -13,7 +13,7 @@
 ## [**赛风（电脑和手机版）**](https://s3.amazonaws.com/psiphon/web/mjr4-p23r-puwl/zh/download.html#direct)
 
 # 其他下载
-## [**飞鸟快传（无需网络 零流量 跨平台传输<苹果、安卓> 需双方手机都安装）**](https://github.com/zxstpa/wnel/files/4862999/feiniaokc_v2.4_from1.zip)
+## [**飞鸟快传（无需网络、零流量、跨平台传输<苹果、安卓>，需双方手机都安装）**](https://github.com/zxstpa/wnel/files/4862999/feiniaokc_v2.4_from1.zip)
 ## [**锂EPUB阅读器**](https://github.com/zxstpa/wnel/files/4862984/Lithium_78.zip)
 
 本文关联网址：[https://github.com/zxstpa/wnel](https://github.com/zxstpa/wnel)
