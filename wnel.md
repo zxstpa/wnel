@@ -1218,7 +1218,7 @@
 
 [https://s3.amazonaws.com/psiphon/web/mjr4-p23r-puwl/zh/download.html#direct](https://s3.amazonaws.com/psiphon/web/mjr4-p23r-puwl/zh/download.html#direct)  
 
-**三、星链上网：通过SpaceX公司即将投入运行的星链卫星上网，不走中共网路，直连天上卫星上网，真正的安全、自由、快速畅游国际互联网。**
+**三、星链上网：通过SpaceX公司的星链卫星上网（即将投入运行），不走中共网路，直连天上卫星上网，真正的安全、自由、快速畅游国际互联网。**
 
 **访问以下网站，了解真实的信息。**
 
