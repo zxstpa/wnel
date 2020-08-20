@@ -1506,6 +1506,6 @@ tuidang@epochtimes.com
 ----------------
 本电子书有配套视频，主要是提供书中涉及的证据，须科学上网观看。
 
-配套视频网址：[hhttps://youtu.be/Z3l-g0_SSDk](https://youtu.be/Z3l-g0_SSDk)
+配套视频网址：[https://youtu.be/Z3l-g0_SSDk](https://youtu.be/Z3l-g0_SSDk)
 
 本文关联网址：[https://github.com/zxstpa/wnel](https://github.com/zxstpa/wnel)
