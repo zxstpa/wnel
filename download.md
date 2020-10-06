@@ -1,8 +1,6 @@
 # 电子书下载
 ## [**《为你而来》等（EPUB、PDF版本）**](https://github.com/zxstpa/wnel/files/5061903/wnel.zip)
-## [**《九评共产党》等**](https://github.com/zxstpa/wnel/files/4888646/9p.zip)
-## [**罪恶滔天的共产党（电脑版）**](https://github.com/zxstpa/wnel/files/5331031/gcd-pc.zip)
-## [**罪恶滔天的共产党（手机版）**](https://github.com/zxstpa/wnel/files/5331035/gcd-m.zip)
+## [**《九评共产党》等**](https://github.com/zxstpa/wnel/files/5332448/9p.zip)
 ## [**《东方女性》杂志2002年第7期 - 01**](https://github.com/zxstpa/wnel/files/4816977/DFNX-2002.7-01.zip)
 ## [**《东方女性》杂志2002年第7期 - 02**](https://github.com/zxstpa/wnel/files/4816982/DFNX-2002.7-02.zip)
 ## [**《东方女性》杂志2002年第7期 - 03**](https://github.com/zxstpa/wnel/files/4817007/DFNX-2002.7-03.zip)
