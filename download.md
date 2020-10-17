@@ -1,7 +1,6 @@
 # 电子书下载
 ## [**《为你而来》等（EPUB、PDF版本）**](https://github.com/zxstpa/wnel/files/5061903/wnel.zip)
 ## [**《九评共产党》等**](https://github.com/zxstpa/wnel/files/5332448/9p.zip)
-## [**共产党在大饥荒期间出口粮食800万吨**](https://github.com/zxstpa/wnel/files/5394786/800wd.zip)
 ## [**共产党种鸦片相关1**](https://github.com/zxstpa/wnel/files/5394769/yapian1.zip)
 ## [**共产党种鸦片相关2**](https://github.com/zxstpa/wnel/files/5394772/yapian2.zip)
 ## [**《东方女性》杂志2002年第7期 - 01**](https://github.com/zxstpa/wnel/files/4816977/DFNX-2002.7-01.zip)
